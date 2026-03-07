@@ -1,0 +1,30 @@
+1. Console output of git status saved in docs/status.txt:
+nothing to commit, working tree clean
+
+2. git log --oneline | wc -l
+Answer: 9
+
+3. git log -1 README.md
+Answer: Commit with message "Updated README.md with Name and FSUID. The information files have been updated to describe the state of repository. Repo owner information added to README.md"
+
+4. Branches allow for developing new features independently. Branches allow multiple developers to work together at the same time.
+
+5. Difference between git log and git status:
+- git log shows the commit history
+- git status shows changes and staged files currently
+
+6. git log -- Vehicle.h
+
+7. git log --grep="file"
+
+8. 
+- Inheritance: When a class can inherit properties from another class
+- Polymorphism: When different classes can be used through an interface
+- Encapsulation: When data and functions are together only certain data is shown
+
+9. 
+- Dictator: When one main integrator merges changes, and the other works on branches
+- Integration Manager: Multiple managers integrate changes from contributors
+
+10.
+- It avoids conflicts in decisions. It is much easier to manage integrations using a dictator workflow.
