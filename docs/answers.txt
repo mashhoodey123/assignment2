@@ -1,3 +1,6 @@
+GitLab Date: 3/06/2026
+GitHub setup date: Sometime in 2018
+
 1. Console output of git status saved in docs/status.txt:
 nothing to commit, working tree clean
 
